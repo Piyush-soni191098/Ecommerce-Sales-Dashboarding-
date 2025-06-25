@@ -70,7 +70,10 @@ The dataset includes detailed sales information such as:
 
 ## 📌 Project Preview
 
-> Add screenshots of your dashboard here (Power BI visuals)
+![image](https://github.com/user-attachments/assets/3805fe26-74cd-4123-bd66-41f72d663c51)
+![image](https://github.com/user-attachments/assets/34c94d51-6ab6-49cb-9387-a2e9bef5d46b)
+![image](https://github.com/user-attachments/assets/d6fa2be9-f3bf-4d9d-afa7-30033795bf36)
+
 
 ---
 
